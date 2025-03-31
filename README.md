@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá, seja bem vindo (a) 😉!
+
+Eu sou o Marcos Ferreira, professor no curso Técnico em Desenvolvimento de Sistema, no SENAI de Presidente Prudente.
 
 <!--
 **ferreira-mr/ferreira-mr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
